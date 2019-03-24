@@ -1,5 +1,5 @@
 # TechTogether
-Submission for TechTogether Boston hackatBWWF Hack the Gender Gap Challengehon
+Submission for TechTogether Boston hackathon
 
 Project: Analyzing Wage Gap
 

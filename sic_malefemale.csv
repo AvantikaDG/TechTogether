@@ -1,0 +1,616 @@
+Code,Desc,Male,Female
+1110,"Growing of cereals, except rice",1538,*
+1120,Growing of rice,,
+1130,"Grwng veg & melons, roots & tubers",1530,654
+1140,Growing of sugar cane,,
+1150,Growing of tobacco,,
+1160,Growing of fibre crops,,*
+1190,Grwing of othr nonperennial crops,370,*
+1210,Growing of grapes,,
+1220,Grwing of trop & subtrpical fruits,,
+1230,Growing of citrus fruits,,
+1240,Grwng of pome fruits & stone fruit,325,*
+1250,"Grwng othr tree, bush fruit & nuts",*,
+1260,Growing of oleaginous fruits,,
+1270,Growing of beverage crops,,
+1280,"Grwing spices, drug & pharm crops",,
+1290,Growing of other perennial crops,*,*
+1300,Plant propagation,1970,*
+1410,Raising of dairy cattle,20622,6301
+1420,Raising other cattle and buffaloes,18599,4036
+1430,Raising horses and other equines,1978,2078
+1440,Raising of camels and camelids,,
+1450,Raising of sheep and goats,13091,3015
+1460,Raising of swinepigs,1527,*
+1470,Raising of poultry,2413,433
+1490,Raising of other animals,1605,2717
+1500,Mixed farming,41295,8471
+1610,Support activs for crop production,12679,1381
+1620,Support activities for animal prod,3797,524
+1630,Postharvest crop activities,,
+1640,Postharvest crop activities,811,*
+1700,"Hunting, trappng & reltd serv actv",*,
+2100,Silviculture & other forestry actv,2538,*
+2200,Logging,3642,*
+2300,Gathring wild grwing nonwood prod,*,
+2400,Support services to forestry,2100,*
+3110,Marine fishing,4742,*
+3120,Freshwater fishing,*,
+3210,Marine aquaculture,*,*
+3220,Freshwater aquaculture,297,
+5100,Mining of hard coal,,
+5200,Mining of lignite,*,
+6100,Extraction of crude petroleum,1585,
+6200,Extraction of natural gas,*,
+7100,Mining of iron ores,,
+7210,Mining of uranium and thorium ores,,*
+7290,Mining othr nonferrous metal ores,,
+8110,Quarry ornamental & building stone,*,
+8120,Operation of gravel & sand pits,,
+8910,Mining chem & fertiliser minerals,*,
+8920,Extraction of peat,,
+8930,Extraction of salt,,
+8990,Other mining and quarrying n.e.c.,*,*
+9100,Supp actv petrol & nat gas extracn,6571,660
+9900,Supp actv other mining & quarrying,1214,
+10110,Processing and preserving of meat,*,
+10120,Proc & preserving of poultry meat,,*
+10130,Productn meat & poultry meat prod,*,
+10200,"Proc fish, crustaceans & molluscs",288,
+10310,Proc and preserving of potatoes,*,
+10320,Manu of fruit & vegetable juice,,
+10390,Other proc & presvg of fruit & veg,1840,1179
+10410,Manufacture of oils and fats,,
+10420,Manu margarine & sim edible fats,,
+10510,Operation dairies & cheese making,*,*
+10520,Manufacture of ice cream,*,*
+10610,Manufacture of grain mill products,*,1372
+10620,Manu of starches & starch products,,
+10710,"Man bread, fresh pastry gds & cake",1434,3966
+10720,Man ruskbiscpres pastry gdscake,*,1619
+10730,"Man mac, nood, couscous & sim prod",,*
+10810,Manufacture of sugar,,
+10820,"Man cocoa, chocolate & sugar conf",566,1222
+10830,Processing of tea and coffee,*,
+10840,Manu of condiments & seasonings,*,*
+10850,Manu of prepared meals & dishes,*,
+10860,Man homogen food preps & diet food,*,
+10890,Manu other food products n.e.c.,*,559
+10910,Manu preprd feeds for farm animals,563,*
+10920,Manufacture of prepared pet foods,,
+11010,"Distil, rectifyg & blending spirit",*,*
+11020,Manufacture of wine from grape,,
+11030,Manuf of cider & other fruit wines,*,
+11040,Man other nondistil fermentd bev,,
+11050,Manufacture of beer,1468,*
+11060,Manufacture of malt,,
+11070,Manu soft drinks & mineral waters,*,
+12000,Manufacture of tobacco products,,
+13100,Prep & spinning of textile fibres,*,782
+13200,Weaving of textiles,135,944
+13300,Finishing of textiles,293,1274
+13910,Manu knitted & crocheted fabrics,,*
+13920,"Man madeup textile art, exc appl",863,3713
+13930,Manufacture of carpets and rugs,,
+13940,"Man cordage, rope, twine & netting",*,691
+13950,"Man nonwoven & assoc art, ex appl",,
+13960,Manuf of other tech & ind textiles,,*
+13990,Manufacture other textiles n.e.c.,,
+14110,Manufacture of leather clothes,*,*
+14120,Manufacture of workwear,1898,*
+14130,Manufacture of other outerwear,1197,2806
+14140,Manufacture of underwear,*,*
+14190,Manu other wearing apprl & acces,,3636
+14200,Manufacture of articles of fur,,*
+14310,Manu knitted & crocheted hosiery,,
+14390,Man other knitted & crocheted appl,*,*
+15110,"Tanning, dressing, dye leathrfur",,
+15120,"Man lug, hndbgs, sddlry & harness",953,582
+15200,Manufacture of footwear,,
+16100,Sawmilling and planing of wood,373,
+16210,Man ven sheets & woodbased panels,,
+16220,Manuf of assembled parquet floors,,
+16230,Manu of other builders,10184,764
+16240,Manufacture of wooden containers,*,*
+16290,Man oth prod wood & plaiting mat,1973,748
+17110,Manufacture of pulp,1037,
+17120,Manuf of paper and paperboard,762,*
+17210,Man & cont corrgatd pper & pperbrd,,
+17220,Manu of hhold & sanittoilet goods,,
+17230,Manufacture of paper stationery,,*
+17240,Manufacture of wallpaper,,*
+17290,Man othr art of ppr & pprbd n.e.c.,548,537
+18110,Printing of newspapers,,
+18120,Other printing,5540,1721
+18130,Prepress and premedia services,1763,741
+18140,Binding and related services,*,*
+18200,Reproduction of recorded media,1006,
+19100,Manufacture of coke oven products,,
+19200,Manu of refined petroleum prod,478,
+20110,Manufacture of industrial gases,*,
+20120,Manufacture of dyes and pigments,,
+20130,Manu other inorganic basic chem,,
+20140,Manuf of other organic basic chem,468,
+20150,Man fertilisers & nitro compounds,*,
+20160,Manuf of plastics in primary forms,*,
+20170,Manu synth rubber in primary forms,,
+20200,Manu of pest & other agrochem prod,,
+20300,Manu of paints & related products,*,*
+20410,Man soap & detgts clean & pol prep,,*
+20420,Man perfumes & toilet preparations,,900
+20510,Manufacture of explosives,*,
+20520,Manufacture of glues,*,*
+20530,Manufacture of essential oils,,*
+20590,Manu of other chemical prod n.e.c.,*,
+20600,Manufacture of manmade fibres,,
+21100,Manuf of basic pharmaceutical prod,1277,1244
+21200,Man of pharmaceutical preparations,933,*
+22110,"Manu, retread of rub tyres & tubes",,
+22190,Manuf of other rubber products,*,*
+22210,"Man plastic plates, sheets, tubes",,
+22220,Manuf of plastic packing goods,1063,*
+22230,Manuf of builders? ware of plastic,4452,*
+22290,Manuf of other plastic products,896,*
+23110,Manufacture of flat glass,,
+23120,Shaping and procesng of flat glass,763,708
+23130,Manufacture of hollow glass,*,*
+23140,Manufacture of glass fibres,*,
+23190,"Man & proc oth glas, inc tech glas",*,
+23200,Manufacture of refractory products,*,
+23310,Manuf of ceramic tiles and flags,*,*
+23320,"Man bricks, tiles & constr prod",*,
+23410,Man ceramic hhold & ornm artcls,*,1043
+23420,Manuf of ceramic sanitary fixtures,,
+23430,Manu of ceramic inslts & inslg fit,,
+23440,Man othr technical ceramic prod,,
+23490,Manuf of other ceramic products,*,*
+23510,Manufacture of cement,,
+23520,Manufacture of lime and plaster,*,
+23610,Man conc prod for constrcn purp,856,*
+23620,Man plaster prod for constrcn purp,*,
+23630,Manufof readymixed concrete,*,
+23640,Manufacture of mortars,,
+23650,Manufacture of fibre cement,,
+23690,"Man othr art of conc, plstr & cmnt",*,
+23700,"Cutting, shaping & finishing stone",795,*
+23910,Production of abrasive products,,
+23990,Man othr nonmet min prod n.e.c.,*,
+24100,"Man basic iron, steel & ferroally",1771,*
+24200,Man holow prof & rltd fit of steel,1326,*
+24310,Cold drawing of bars,,
+24320,Cold rolling of narrow strip,,
+24330,Cold forming or folding,*,
+24340,Cold drawing of wire,*,
+24410,Precious metals production,,
+24420,Aluminium production,,
+24430,"Lead, zinc and tin production",,*
+24440,Copper production,*,
+24450,Other nonferrous metal production,,
+24460,Processing of nuclear fuel,*,
+24510,Casting of iron,,
+24520,Casting of steel,,
+24530,Casting of light metals,*,
+24540,Casting of othr nonferrous metals,,
+25110,Man met structs & parts of structs,966,*
+25120,Manu doors and windows of metal,400,*
+25210,Manu cent heating radiators & boil,,
+25290,"Man oth tnks, resvrs & cont of met",*,
+25300,"Manu of steam gen, exc CH boilers",305,
+25400,Manuf of weapons and ammunition,*,
+25500,"Forg, press, stamp & rollform met",,
+25610,Treatment and coating of metals,*,
+25620,Machining,8900,593
+25710,Manufacture of cutlery,,
+25720,Manufacture of locks and hinges,1830,
+25730,Manufacture of tools,*,*
+25910,Man steel drums & sim containers,,
+25920,Manuf of light metal packaging,,
+25930,"Man of wire prods, chain & springs",,*
+25940,Man of fasteners & screw mchn prod,*,
+25990,Man other fabr metal prod n.e.c.,1449,*
+26110,Manufof electronic components,825,*
+26120,Manuf of loaded electronic boards,*,
+26200,Manuf computers & peripheral eqmt,1408,
+26300,Manuf of communication equipment,715,
+26400,Manuf of consumer electronics,*,
+26510,"Man instr for meas, testing & nav",2138,*
+26520,Manufacture of watches and clocks,*,
+26600,Man irradiation & electromed eqmt,*,*
+26700,Man opt instruments & photo eqmt,,*
+26800,Manu magnetic and optical media,*,
+27110,"Manu of elect motors, gen & transf",*,
+27120,Man elctrcty dist & cont apparatus,,
+27200,Manu batteries and accumulators,,
+27310,Manufacture of fibre optic cables,,
+27320,Man oth elctrnc & elec wirescable,*,
+27330,Manufacture of wiring devices,,
+27400,Manu electric lighting equipment,*,*
+27510,Manu electric domestic appliances,,*
+27520,Manu of nonelectric domestic appl,*,*
+27900,Manu of other electrical eqmt,515,*
+28110,"Man eng & turb, ex airvehcyc eng",978,
+28120,Manuf of fluid power equipment,*,
+28130,Man other pumps and compressors,*,
+28140,Manuf of other taps and valves,*,*
+28150,"Man bear, gear, grng & drvng elmnt",*,
+28210,"Man ovens, furnaces & furnace burn",*,*
+28220,Manu lifting & handling equipment,357,
+28230,Man off mchn & eqmt exc PC & acc,*,
+28240,Manuf of powerdriven hand tools,*,
+28250,Man nondom cooling & ventiln eqmt,*,
+28290,Man other genpurp machinry n.e.c.,2275,
+28300,Man agricultural & forestry mchnry,*,
+28410,Manuf of metal forming machinery,1029,
+28490,Manufacture of other machine tools,,
+28910,Manuf of machinery for metallurgy,,
+28920,"Man mchnry for mng, quarr & constr",*,*
+28930,"Man mcnry for food, bev & tob proc",1116,378
+28940,"Man mchn for txt, app & lethr prod",1160,*
+28950,Man mchnry for pper & pperbrd prod,,
+28960,Man plastics and rubber machinery,*,
+28990,Man othr specpurp mchnry n.e.c.,,
+29100,Manufacture of motor vehicles,3702,
+29200,Man bodies for motor veh & trailer,1070,*
+29310,Man of electric eqmt for motor veh,*,
+29320,Man othr parts & acc for motor veh,2811,*
+30110,Buildng of ships & floating struct,1673,*
+30120,Buildng pleasure & sportng boats,1191,
+30200,Manu railway loco & rolling stock,*,
+30300,Manu air & spacecraft & rel mchnry,3183,*
+30400,Manuf military fighting vehicles,*,
+30910,Manufacture of motorcycles,854,
+30920,Manu bicycles & invalid carriages,*,
+30990,Manu other transport eqmt n.e.c.,,
+31010,Manuf of office and shop furniture,2197,
+31020,Manufacture of kitchen furniture,871,
+31030,Manufacture of mattresses,*,
+31090,Manufacture of other furniture,7528,1410
+32110,Striking of coins,,
+32120,Manu jewellery & related articles,1513,798
+32130,Man imitation jewellery & rltd art,,2065
+32200,Manufacture of musical instruments,1577,
+32300,Manufacture of sports goods,*,*
+32400,Manufacture of games and toys,*,1083
+32500,Man med & dental instruments & sup,3483,1365
+32910,Manufacture of brooms and brushes,*,
+32990,Other manufacturing n.e.c.,2002,492
+33110,Repair of fabricated metal prodts,1562,
+33120,Repair of machinery,11704,711
+33130,Repair of electrnc & optical eqmt,2651,
+33140,Repair of electrical equipment,2471,*
+33150,Repair & maintenance ships & boats,*,
+33160,Repair & main aircraft & spacecrft,1156,
+33170,Repair & main trnsport eqmt n.e.c.,2116,*
+33190,Repair of other equipment,*,*
+33200,Installation ind mchnry & equipmnt,5973,*
+35110,Production of electricity,5452,*
+35120,Transmission of electricity,*,
+35130,Distribution of electricity,1538,
+35140,Trade of electricity,2169,*
+35210,Manufacture of gas,931,*
+35220,Dist of gaseous fuels thrgh mains,1908,*
+35230,Trade of gas through mains,*,
+35300,Steam and air conditioning supply,*,
+36000,"Water collction, treatmnt & supply",1769,*
+37000,Sewerage,392,*
+38110,Collection of nonhazardous waste,3415,*
+38120,Collection of hazardous waste,*,
+38210,Treatmnt & disp of nonhazrd waste,479,
+38220,Treatmnt & disp of hazrdous waste,*,
+38310,Dismantling of wrecks,,
+38320,Recovery of sorted materials,831,*
+39000,Remdiatn actv & oth wste mgmt serv,1797,*
+41100,Development of building projects,24201,9960
+41200,Constr of res and nonres buildngs,280176,8577
+42110,Construction of roads and motrways,19800,370
+42120,Constr railwys & undgrnd railwys,4647,*
+42130,Constructn of bridges and tunnels,974,*
+42210,Constr of utility proj for fluids,2039,*
+42220,Constr util proj for elec & telcom,3052,*
+42910,Construction of water projects,4384,
+42990,Constr other civil eng proj n.e.c.,18713,1414
+43110,Demolition,821,
+43120,Site preparation,1071,*
+43130,Test drilling and boring,*,
+43210,Electrical installation,62728,1995
+43220,"Plumbng, heat & aircon installatn",90521,1932
+43290,Other construction installation,9690,*
+43310,Plastering,30961,*
+43320,Joinery installation,108455,951
+43330,Floor and wall covering,25084,1039
+43340,Painting and glazing,77575,1426
+43390,Othr buildng completn & finishing,29115,1251
+43910,Roofing activities,29822,1853
+43990,Othr specsd constr actv n.e.c.,54688,1065
+45110,Sale of cars & light motor vehles,9298,1448
+45190,Sale of other motor vehicles,1768,*
+45200,Maintenance & repair motor vehles,52600,3056
+45310,Wsale trade motor veh parts & acc,1477,*
+45320,Ret trade of motor veh parts & acc,4255,839
+45400,"Sale, main, rep mtrcycle & rel prt",2220,
+46110,Agnts inv in sale of agri raw mat,*,
+46120,Agnts inv sale fuelmetind chem,1073,729
+46130,Agnts inv in sale timb & bldng mat,1064,*
+46140,Agnts inv sale ind eqmtshipsairc,652,*
+46150,Agnts inv sale hhold gdsironmngry,578,
+46160,Agnts inv sale text & lether goods,,342
+46170,"Agnts inv in sale food, bev & tob",,*
+46180,Agnts specsd sale othr part prod,1325,3023
+46190,Agents inv in sale variety goods,,
+46210,Wsale grainuman tobseedsanml fd,405,
+46220,Wholesale of flowers and plants,*,*
+46230,Wholesale of live animals,901,830
+46240,"Wsale of hides, skins and leather",,
+46310,Wholesale of fruit and vegetables,1193,*
+46320,Whlesale of meat and meat products,651,
+46330,"Wsale dairy prod, edible oilsfats",642,
+46340,Wholesale of beverages,1213,673
+46350,Wholesale of tobacco products,*,
+46360,Wsale of sugar & choc & sugar conf,1511,617
+46370,"Wsale coffee, tea, cocoa & spices",,
+46380,"Wsale of oth food, inc seafood",801,*
+46390,"Nonspec wsale of food, bev & tob",4601,336
+46410,Wholesale of textiles,1696,
+46420,Wholesale of clothing and footwear,2116,2307
+46430,Wsale of electrical household appl,5055,
+46440,Wsale china & glasswre & clean mat,420,*
+46450,Wholesale of perfume and cosmetics,*,1164
+46460,Wholesale of pharmaceutical goods,949,*
+46470,"Wsale furn, carpts & lightng eqmt",2614,361
+46480,Wholesale of watches and jewellery,,*
+46490,Wholesale of other household goods,5572,2657
+46510,"Wsale comp, comp perp eqmt & sftwr",*,
+46520,Wsale elctrnc & telecom eqmt & prt,935,*
+46610,"Wsale of agric mchnry, eqmt & supp",528,*
+46620,Wholesale of machine tools,*,
+46630,"Wsale mining, cons & civ eng mcnry",2463,
+46640,Wsale of mchnry for textile ind,,
+46650,Wholesale of office furniture,,
+46660,Wsale of other off machinry & eqmt,*,
+46690,Wsale of other machinery & eqmt,4678,616
+46710,Wsale solliqgas fuel & rltd prod,1167,*
+46720,Wholesale of metals and metal ores,665,
+46730,"Wsale wood, constr mat & san eqmt",2840,691
+46740,Wholesale of DIY eqmt & supp,1554,*
+46750,Wholesale of chemical products,1285,
+46760,Wsale of other intermediate prod,1691,562
+46770,Wholesale of waste and scrap,2299,*
+46900,Nonspecialised wholesale trade,1409,*
+47110,Ret sale nonspec str foodbevtob,15163,6850
+47190,Oth ret sale in nonspec stores,2417,749
+47210,Ret sale fruit & veg in spec store,3627,663
+47220,Ret sale meat & rel prod spec strs,5525,2345
+47230,Ret sale of seafood in spec stores,*,*
+47240,Ret sale of bakery prod spec stres,2294,3663
+47250,Ret sale of bev in spec stores,2483,*
+47260,Ret sale of tob prod in spec stres,399,
+47290,Othr ret sale of food in spec strs,3744,2276
+47300,Ret sale of auto fuel in spec strs,2769,1287
+47410,Ret sale PC eqmt & acc spec strs,1996,*
+47420,Ret sale of telcom eqp spec store,*,
+47430,Ret sale aud & vid eqmt spec strs,739,
+47510,Ret sale of text in specsd stores,2690,3316
+47520,Ret sale hardware eqmt spec strs,7396,1669
+47530,Ret sale of d?r eqmt spec stores,1203,901
+47540,Ret sale of white goods spec stres,1110,655
+47590,Ret sale of fixfit in spec strs,7400,3633
+47610,Ret sale of books in specsd stores,1526,192
+47620,Ret sale newsp & stat in spec strs,1004,3077
+47630,Ret sale mus & vid rec spec strs,703,
+47640,Ret sale of sprt eqmt in spec strs,4557,1166
+47650,Ret sale of games & toys spec stre,367,552
+47710,Ret sale of clothing in spec stres,10767,12693
+47720,Ret sale ftwr & lthr gds spec strs,523,*
+47730,Disp chemist in specsd stores,7299,3086
+47740,Ret sale of med eqmt in spec stres,1361,*
+47750,Ret sale cos & toltries spec strs,*,2556
+47760,Ret sale flwrs & pets in spec strs,3121,7708
+47770,Ret sale jewlry items in spec strs,3815,4297
+47780,Oth ret sale new gds in spec strs,9519,20568
+47790,Ret sale of secndhnd goods in str,7639,5198
+47810,"Ret sale; stlls & mrkt fd,bev,tobc",1476,1273
+47820,"Ret sale; stlls & mrkt clthg, ftwr",646,860
+47890,Ret sale via stalls & mrkt oth gds,3026,*
+47910,"Ret sale mail order houses, intrnt",11559,14426
+47990,Othr ret sale exc stores etc,6742,2546
+49100,"Passngr rail transport, interurban",1490,
+49200,Freight rail transport,,*
+49310,Urban & sub passngr land transport,5779,1942
+49320,Taxi operation,174893,7438
+49390,Other passngr land transprt n.e.c.,2709,769
+49410,Freight transport by road,35341,1900
+49420,Removal services,7271,859
+49500,Transport via pipeline,434,
+50100,Sea & coastal pass water transport,1169,
+50200,Sea & coastal freight watr trnsprt,*,*
+50300,Inland passenger water transport,*,
+50400,Inland freight water transport,,
+51100,Passenger air transport,511,
+51210,Freight air transport,*,
+51220,Space transport,,
+52100,Warehousing and storage,2210,*
+52210,Serv actv incidental to land trans,1720,*
+52220,Serv actv incidental to wter trans,2120,
+52230,Serv actv incidental to air trans,412,
+52240,Cargo handling,*,*
+52290,Other transportation supp acts,4190,*
+53100,Post actv under univesl serv oblig,5607,2639
+53200,Other postal and courier acts,30451,6467
+55100,Hotels and similar accommodation,2455,6684
+55200,Holiday and other short stay accom,10500,21931
+55300,"Cmpg grnd, rec veh prk & trail prk",1292,1166
+55900,Other accommodation,946,2901
+56100,Restnt & mobile food servc actv,47279,26336
+56210,Event catering activities,7485,10346
+56290,Other food service activities,,*
+56300,Beverage serving activities,11196,6209
+58110,Book publishing,3166,7257
+58120,Publ of directs & mailing lists,,
+58130,Publishing of newspapers,3236,759
+58140,Publishng of journls & periodicls,6980,4039
+58190,Other publishing activities,4403,4380
+58210,Publishing of computer games,,
+58290,Other software publishing,2150,*
+59110,"Motn pic, vid & tv prog prod actv",21086,10873
+59120,"Motn pic, vid & tv prog popro act",2629,1367
+59130,"Motn pic, vid & tv prog dist actv",554,
+59140,Motn picture projection activities,,*
+59200,Sound recording & music publ actv,3588,692
+60100,Radio broadcasting,1566,*
+60200,Tv programming & broadcasting actv,7213,1434
+61100,Wired telecomtions activities,1479,657
+61200,Wireless telecomtions activities,3020,1009
+61300,Satellite telecoms activities,,
+61900,Other telecomtions activities,1378,*
+62010,Computer programming activities,42466,5360
+62020,Computer consultancy activities,56860,11208
+62030,Computer facilities mangmnt actv,610,*
+62090,Other IT & computer service actv,3113,*
+63110,"Data proc, hosting & related actv",*,*
+63120,Web portals,*,*
+63910,News agency activities,254,*
+63990,Other info service acts n.e.c.,*,
+64110,Central banking,*,*
+64190,Other monetary intermediation,11289,1826
+64200,Activities of holding companies,2126,*
+64300,"Trusts, funds & sim financial ents",4024,*
+64910,Financial leasing,*,
+64920,Other credit granting,3006,4072
+64990,"Oth fin ser,exc ins & pen fund,nec",4384,1364
+65110,Life insurance,*,
+65120,Nonlife insurance,7753,1133
+65200,Reinsurance,,
+65300,Pension funding,*,
+66110,Administration of financial markts,681,727
+66120,Sec & commodity contrcts brokerage,9242,1584
+66190,"Oth act ax fin ser,ex in & pen fnd",29206,10016
+66210,Risk and damage evaluation,*,*
+66220,Actv of insurance agents & brokers,6859,*
+66290,Othr actv aux to ins & pensn fndng,1841,877
+66300,Fund management activities,1543,*
+68100,Buying and selling own real estate,793,
+68200,Renting & op ownleasd real estate,19337,14898
+68310,Real estate agencies,14346,7741
+68320,Mgmt real estate on feecont basis,8468,5661
+69100,Legal activities,41637,17340
+69200,Accntng & auditng actv;tax consult,35429,36850
+70100,Activities of head offices,1968,939
+70210,PR & communication activities,4144,5476
+70220,Bus & other mangmnt constny actv,75996,40075
+71110,Architectural activities,14750,8967
+71120,Eng actv & related tech consltncy,77724,11776
+71200,Technical testing and analysis,5369,904
+72110,Res & experimental dev on biotech,1057,*
+72190,Othr R&D on natural sciences & eng,4032,2477
+72200,R&D on social sci and humanities,1620,892
+73110,Advertising agencies,18634,11408
+73120,Media representation,4409,3213
+73200,Market resch & pub opinion polling,4001,5883
+74100,Specialised design activities,55474,34601
+74200,Photographic activities,21928,13909
+74300,Transltion and interpretation actv,5651,10050
+74900,"Otr prof,scntfc & tech actv n.e.c.",13810,5431
+75000,Veterinary activities,4934,6492
+77110,Rent & lease cars & light motr veh,1176,
+77120,Renting and leasing of trucks,527,
+77210,Rentng & leasing rec & sport goods,1234,*
+77220,Renting of video tapes and disks,,
+77290,Rent & lease othr per & hhold good,3288,*
+77310,Rentng & leasng agr mchnry & eqmt,*,
+77320,Rentleas constr & eng mchn & eqmt,2239,*
+77330,Rentlease off mchn & eqmt inc PC,*,
+77340,Rentng & leasng watr trnprt eqmt,*,*
+77350,Rentng & leasng air transprt eqmt,,*
+77390,"Rentleas mchn,eqmt & tang gds nec",2959,827
+77400,"Lease intel prop, exc cpyrghtd wrk",*,*
+78100,Actv of emplymnt placment agncies,10119,9901
+78200,Temp employment agency activities,3866,3829
+78300,Other human resources provision,*,
+79110,Travel agency activities,3801,2077
+79120,Tour operator activities,1256,*
+79900,Othr reservtn serv & related actv,4001,3525
+80100,Private security activities,6781,876
+80200,Security systems service activs,4287,
+80300,Investigation activities,2856,*
+81100,Combined facils support activities,7932,5930
+81210,General cleaning of buildings,10358,70093
+81220,Other building & ind cleaning actv,23932,2651
+81290,Other cleaning activities,3821,18330
+81300,Landscape service activities,77728,18271
+82110,Combined office admin service actv,*,2882
+82190,"Copyng,doc prep & othr off sup act",2228,4220
+82200,Activities of call centres,,622
+82300,Convntn and trade show organisers,4702,3239
+82910,Actv coll agncies & credit bureaus,920,565
+82920,Packaging activities,*,*
+82990,Other bus supp service actv n.e.c.,6033,5176
+84110,General public admin activities,9247,7419
+84120,Reg of actv providing social serv,5902,10079
+84130,Reg & contr to mre eff op of busin,2001,1339
+84210,Foreign affairs,*,
+84220,Defence activities,2020,*
+84230,Justice and judicial activities,8454,2716
+84240,Public order and safety activities,2356,*
+84250,Fire service activities,*,*
+84300,Complsry social security activs,,*
+85100,Preprimary education,1120,5690
+85200,Primary education,4921,15270
+85310,General secondary education,9134,10957
+85320,Techl & vocational secondary educ,15183,19475
+85410,Postsecndry nontertiary educatn,1242,1403
+85420,Tertiary education,5484,5087
+85510,Sports and recreation education,19136,23556
+85520,Cultural education,5916,19782
+85530,Driving school activities,24308,7248
+85590,Other education n.e.c.,27568,35988
+85600,Educational support activities,5001,9912
+86100,Hospital activities,8493,10946
+86210,General medical practice activs,18799,20606
+86220,Specialist medical practice activs,7004,12184
+86230,Dental practice activities,15240,14550
+86900,Other human health activities,19210,55133
+87100,Residential nursing care activs,2110,4797
+87200,Res care activs for mental health,2715,5990
+87300,Res care actv for the eldly & disb,2732,10202
+87900,Other residential care activities,1379,3125
+88100,Soc wrk act wo accm fr eld & disb,*,7082
+88910,Child daycare activities,2409,70578
+88990,Other soc work actv wo accom nec,13024,28239
+90010,Performing arts,28235,12119
+90020,Supprt activs to performing arts,7068,4388
+90030,Artistic creation,38732,35101
+90040,Operation of arts facilities,3410,2284
+91010,Library and archive activities,1482,1217
+91020,Museum activities,1493,2436
+91030,Op of hist sites & sim vis atrctns,*,*
+91040,Bot & zoolgicl grdns & nat res act,*,*
+92000,Gambling and betting activities,3337,1174
+93110,Operation of sports facilities,6675,4599
+93120,Activities of sport clubs,5753,1984
+93130,Fitness facilities,3835,8712
+93190,Other sports activities,7303,8719
+93210,Act of amusement park & theme park,*,*
+93290,Other amusement and rec activities,18456,8443
+94110,Act of busness & employrs memb org,1673,*
+94120,Activities of prof mem org,14122,8273
+94200,Activities of trade unions,*,*
+94910,Activs of religious organisations,6640,2403
+94920,Activs of political organisations,*,
+94990,Activities of other mem org n.e.c.,3108,4640
+95110,Repair of comps & peripheral eqmt,5075,*
+95120,Repair of communication equipment,1401,*
+95210,Repair of consumer electronics,1346,
+95220,Rep hhold apps & home & grden eqmt,14807,313
+95230,Repair of footwr and leather goods,1258,
+95240,Rep of furnitre & home furnishngs,6275,2239
+95250,"Rep of watches, clocks & jewellery",*,
+95290,Rep of other personl & hhold goods,2097,3154
+96010,Wash & (dry)cleang text & fur prod,5441,3826
+96020,Hairdressng & othr beauty treatmnt,18818,123515
+96030,Funeral and related activities,2488,2174
+96040,Physical wellbeing activities,3279,8909
+96090,Other personal service actv n.e.c.,12734,25423
+97000,Act hhold as emplyers of dom pers,12857,17704
+98100,Undif goodprod act of priv hholds,,932
+98200,Undif servprod act of priv hholds,,2587
+99000,Act extraterritorial org & bodies,1180,*
